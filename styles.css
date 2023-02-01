@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  #navbar {
+    background-color: rgba(114, 74, 183, 0.133);
+    padding: 40px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    top: 0;
+    overflow: hidden;
+    position: sticky;
+  
+  }
