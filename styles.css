@@ -3,7 +3,7 @@
   }
   
   #navbar {
-    background-color: rgba(114, 74, 183, 0.133);
+    background-color: rgba(47, 7, 116, 0.818);
     padding: 40px;
     display: flex;
     justify-content: flex-end;
@@ -11,5 +11,10 @@
     top: 0;
     overflow: hidden;
     position: sticky;
-  
+}
+.nav-links {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
   }
